@@ -1,0 +1,14 @@
+C:\Users\bolga\OneDrive\Asztali gép\Bolgár_Dominik_AAH5X1_beadando\Bolgár_Dominik_AAH5X1_beadando\bin\Debug\netcoreapp3.1\Bolgár_Dominik_AAH5X1_beadando.exe
+C:\Users\bolga\OneDrive\Asztali gép\Bolgár_Dominik_AAH5X1_beadando\Bolgár_Dominik_AAH5X1_beadando\bin\Debug\netcoreapp3.1\Bolgár_Dominik_AAH5X1_beadando.deps.json
+C:\Users\bolga\OneDrive\Asztali gép\Bolgár_Dominik_AAH5X1_beadando\Bolgár_Dominik_AAH5X1_beadando\bin\Debug\netcoreapp3.1\Bolgár_Dominik_AAH5X1_beadando.runtimeconfig.json
+C:\Users\bolga\OneDrive\Asztali gép\Bolgár_Dominik_AAH5X1_beadando\Bolgár_Dominik_AAH5X1_beadando\bin\Debug\netcoreapp3.1\Bolgár_Dominik_AAH5X1_beadando.runtimeconfig.dev.json
+C:\Users\bolga\OneDrive\Asztali gép\Bolgár_Dominik_AAH5X1_beadando\Bolgár_Dominik_AAH5X1_beadando\bin\Debug\netcoreapp3.1\Bolgár_Dominik_AAH5X1_beadando.dll
+C:\Users\bolga\OneDrive\Asztali gép\Bolgár_Dominik_AAH5X1_beadando\Bolgár_Dominik_AAH5X1_beadando\bin\Debug\netcoreapp3.1\Bolgár_Dominik_AAH5X1_beadando.pdb
+C:\Users\bolga\OneDrive\Asztali gép\Bolgár_Dominik_AAH5X1_beadando\Bolgár_Dominik_AAH5X1_beadando\obj\Debug\netcoreapp3.1\Bolgár_Dominik_AAH5X1_beadando.csproj.AssemblyReference.cache
+C:\Users\bolga\OneDrive\Asztali gép\Bolgár_Dominik_AAH5X1_beadando\Bolgár_Dominik_AAH5X1_beadando\obj\Debug\netcoreapp3.1\Bolgár_Dominik_AAH5X1_beadando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bolga\OneDrive\Asztali gép\Bolgár_Dominik_AAH5X1_beadando\Bolgár_Dominik_AAH5X1_beadando\obj\Debug\netcoreapp3.1\Bolgár_Dominik_AAH5X1_beadando.AssemblyInfoInputs.cache
+C:\Users\bolga\OneDrive\Asztali gép\Bolgár_Dominik_AAH5X1_beadando\Bolgár_Dominik_AAH5X1_beadando\obj\Debug\netcoreapp3.1\Bolgár_Dominik_AAH5X1_beadando.AssemblyInfo.cs
+C:\Users\bolga\OneDrive\Asztali gép\Bolgár_Dominik_AAH5X1_beadando\Bolgár_Dominik_AAH5X1_beadando\obj\Debug\netcoreapp3.1\Bolgár_Dominik_AAH5X1_beadando.csproj.CoreCompileInputs.cache
+C:\Users\bolga\OneDrive\Asztali gép\Bolgár_Dominik_AAH5X1_beadando\Bolgár_Dominik_AAH5X1_beadando\obj\Debug\netcoreapp3.1\Bolgár_Dominik_AAH5X1_beadando.dll
+C:\Users\bolga\OneDrive\Asztali gép\Bolgár_Dominik_AAH5X1_beadando\Bolgár_Dominik_AAH5X1_beadando\obj\Debug\netcoreapp3.1\Bolgár_Dominik_AAH5X1_beadando.pdb
+C:\Users\bolga\OneDrive\Asztali gép\Bolgár_Dominik_AAH5X1_beadando\Bolgár_Dominik_AAH5X1_beadando\obj\Debug\netcoreapp3.1\Bolgár_Dominik_AAH5X1_beadando.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bolgár_Dominik_AAH5X1_beadando", "Bolgár_Dominik_AAH5X1_beadando\Bolgár_Dominik_AAH5X1_beadando.csproj", "{0BF1FE31-64D6-482C-889F-5F635085AEBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BF1FE31-64D6-482C-889F-5F635085AEBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BF1FE31-64D6-482C-889F-5F635085AEBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BF1FE31-64D6-482C-889F-5F635085AEBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BF1FE31-64D6-482C-889F-5F635085AEBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23AE3590-81EE-4C29-95B5-6AD0C802890B}
+	EndGlobalSection
+EndGlobal
